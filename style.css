@@ -1,0 +1,13 @@
+button:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+#logo{
+    font-size: 2vw;
+    font-family: monospace;
+    text-decoration: underline;
+    font-display: fallback;
+    font-weight: 800;
+    margin: 1vw;
+}
